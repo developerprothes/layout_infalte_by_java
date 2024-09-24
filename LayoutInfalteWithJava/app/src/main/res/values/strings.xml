@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutInfalte With Java</string>
+    <string name="bd_title">About Bangladesh</string>
+    <string name="bd_description">
+        Bangladesh is a South Asian country with over 170 million people, known for its vibrant culture, rich history, and natural beauty. Bordered by India and Myanmar, with the Bay of Bengal to the south, it became an independent nation in 1971 after the Bangladesh Liberation War. Dhaka, its capital, is one of the world’s most densely populated cities. Bengali is the official language, and the country operates as a parliamentary democracy. Bangladesh has made significant progress in economic growth, education, and healthcare, while still grappling with challenges like poverty, climate change, and infrastructure development.
+    </string>
+    <string name="prothes_title">About Prothes</string>
+    <string name="prothes_description">
+        Prothes Barai is a talented individual with a strong presence in the tech and personal development fields. He has a GitHub profile where he showcases his coding and software development skills, and maintains a personal website that provides more information about his work and achievements. Prothes is known for being a dedicated friend and family-oriented person, with deep admiration for his father, Prashanta Barai, a respected doctor, and his mother, Shikha Rani Biswas, a primary school teacher. He also has a younger brother, Ankon Barai, whom he loves dearly. Prothes is married to Shreyasi Madhu Shampa, who also has a notable online presence with her own website and GitHub profile, reflecting their shared interests in technology.
+    </string>
+</resources>

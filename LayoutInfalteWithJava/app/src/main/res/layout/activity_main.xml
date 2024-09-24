@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="20dp"
+    android:background="#2FACA140"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout"
+        >
+
+
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout"
+        android:id="@+id/btnNo1"
+        android:text="About Bangladesh"
+        android:textAllCaps="false"
+        android:textSize="17sp"
+        android:textColor="@color/sky"
+        android:layout_marginTop="20dp"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnNo1"
+        android:id="@+id/btnNo2"
+        android:text="About Prothes"
+        android:textAllCaps="false"
+        android:textSize="17sp"
+        android:textColor="@color/sky"
+        android:layout_marginTop="10dp"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnNo2"
+        android:id="@+id/btnNo3"
+        android:text="Remove Layout"
+        android:textAllCaps="false"
+        android:textSize="17sp"
+        android:textColor="@color/sky"
+        android:layout_marginTop="10dp"
+        />
+
+</RelativeLayout>
